@@ -44,4 +44,4 @@ def search(conn):
 			print(Style.RESET_ALL)
 if __name__ == '__main__':
 	conn = connection_to_ad()
-search(conn)
+	search(conn)
